@@ -1,0 +1,21 @@
+.container{
+    padding-left: calc(50% - 200px);
+  padding-right: calc(50% - 200px);
+}
+
+.center{
+    display: flex;    
+    flex-direction: column;
+    align-items: center;    
+    
+    // border: 1px solid black;    
+}
+
+#form,#message{
+    width: 100%;
+}
+
+
+#selectProduct{
+    width: 100%;
+}
